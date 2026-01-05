@@ -1,0 +1,357 @@
+{
+    "zzz_astra_yao": {
+        "character_name": "艾丝特尔",
+        "game": "ZZZ",
+        "source": "Prydwen",
+        "build_name": "Mejor Build General (Analizada por Gemini)",
+        "weapon_recommendations": [
+            "优雅的虚荣",
+            "怯魔",
+            "轰隆隆炮",
+            "宝库"
+        ],
+        "artifact_set_recommendations": [
+            "星体之音",
+            "月光摇篮曲",
+            "摇摆爵士",
+            "荷尔蒙朋克"
+        ],
+        "main_stats_recommendations": {
+            "head_drive": "攻击力%",
+            "hand_drive": "攻击力%",
+            "feet_drive": "能量恢复效率/攻击力%",
+            "core_drive": ""
+        },
+        "final_stats_targets": {
+            "HP": "10500+",
+            "DEF": "800+",
+            "ATK": "3430+",
+            "CRIT Rate": "",
+            "CRIT DMG": "",
+            "Energy_Charge": "0 - 130%",
+            "Impact_Rating": "",
+            "Attribute_DMG": "",
+            "Anomaly_Proficiency": ""
+        },
+        "team_recommendations": [
+            "艾丝特尔, 伊芙琳, 妮可",
+            "艾丝特尔, 雅, 莱卡恩",
+            "艾丝特尔, 本, 妮可"
+        ],
+        "Analisis_Gemini": "Build seleccionada porque fue la fuente elegida por el usuario: Prydwen."
+    },
+    "zzz_soukaku": {
+        "character_name": "Soukaku",
+        "game": "ZZZ",
+        "source": "Prydwen",
+        "build_name": "Mejor Build General (Analizada por Gemini)",
+        "weapon_recommendations": [
+            "Demonio Tímido",
+            "Cuna Llorona",
+            "Boom el Cañón",
+            "Trozo de Tiempo",
+            "[Reverberación] Marca II",
+            "Balón de Juego Desatado"
+        ],
+        "artifact_set_recommendations": [
+            "Blues de la Libertad",
+            "Nana de Luz de Luna",
+            "Voz Astral"
+        ],
+        "planetary_set_recommendations": [
+            "Melodía de Faetón",
+            "Voz Astral",
+            "Punk Hormonal",
+            "Jazz Caótico",
+            "Jazz Balanceado"
+        ],
+        "main_stats_recommendations": {
+            "head_drive": "Competencia de Anomalía",
+            "hand_drive": "ATQ%",
+            "feet_drive": "Maestría de Anomalía",
+            "core_drive": "Recarga de Energía"
+        },
+        "final_stats_targets": {
+            "HP": "10000+",
+            "DEF": "800+",
+            "ATK": "2500-2777",
+            "CRIT Rate": "50%-60%+",
+            "CRIT DMG": "100%-120%+",
+            "Energy_Charge": "",
+            "Impact_Rating": "",
+            "Attribute_DMG": "",
+            "Anomaly_Proficiency": ""
+        },
+        "team_recommendations": [
+            [
+                "Miyabi",
+                "Lycaon",
+                "Soukaku"
+            ],
+            [
+                "Ellen",
+                "Anby Demara",
+                "Soukaku"
+            ],
+            [
+                "Miyabi",
+                "Anby Demara",
+                "Soukaku"
+            ]
+        ],
+        "Analisis_Gemini": "Build seleccionada porque fue la fuente elegida por el usuario: Prydwen."
+    },
+    "zzz_yixuan": {
+        "character_name": "yixuan",
+        "game": "ZZZ",
+        "source": "GenshinLab",
+        "build_name": "Mejor Build General (Analizada por Gemini)",
+        "weapon_recommendations": [
+            "Jaula de Pájaros Qingming",
+            "Esfera Rompecabezas",
+            "Viaje de Ondas de Radio"
+        ],
+        "artifact_set_recommendations": [
+            "Cuentos de Yunkui (4 piezas), Canto de Rama y Hoja (2 piezas)",
+            "Cuentos de Yunkui (4 piezas), Pájaro Carpintero Electro (2 piezas)"
+        ],
+        "main_stats_recommendations": {
+            "head_drive": "Tasa CRIT / Daño CRIT",
+            "hand_drive": "Bono de Daño Etéreo %",
+            "feet_drive": "HP %",
+            "core_drive": ""
+        },
+        "final_stats_targets": {
+            "HP": "",
+            "DEF": "",
+            "ATK": "",
+            "CRIT Rate": "",
+            "CRIT DMG": "",
+            "Energy_Charge": "",
+            "Impact_Rating": "",
+            "Attribute_DMG": "",
+            "Anomaly_Proficiency": ""
+        },
+        "team_recommendations": [
+            "Yixuan, Astra Yao, Pan Yinhu",
+            "Yixuan, Astra Yao, Lucy",
+            "Yixuan, Qingyi, Pan Yinhu"
+        ],
+        "Analisis_Gemini": "Seleccionada porque usuario eligió: Prydwen."
+    },
+    "zzz_lucia": {
+        "character_name": "lucia",
+        "game": "ZZZ",
+        "source": "GenshinLab",
+        "build_name": "Best General Build (Analyzed by Gemini)",
+        "weapon_recommendations": [
+            "Dreamlit Hearth",
+            "Elegant Vanity",
+            "Kaboom the Cannon",
+            "Weeping Cradle",
+            "Unfettered Game Ball"
+        ],
+        "artifact_set_recommendations": [
+            "Moonlight Lullaby 4 pcs"
+        ],
+        "planetary_set_recommendations": [
+            "Yunkui Tales 2 pcs",
+            "Swing Jazz 2 pcs"
+        ],
+        "main_stats_recommendations": {
+            "head_drive": "HP%",
+            "hand_drive": "HP%",
+            "feet_drive": "HP%",
+            "core_drive": ""
+        },
+        "final_stats_targets": {
+            "HP": "",
+            "DEF": "",
+            "ATK": "",
+            "CRIT Rate": "",
+            "CRIT DMG": "",
+            "Energy_Charge": "",
+            "Impact_Rating": "",
+            "Attribute_DMG": "",
+            "Anomaly_Proficiency": ""
+        },
+        "team_recommendations": [
+            {
+                "agent_1": "Lucia",
+                "agent_2": "Ju Fufu",
+                "agent_3": "Yixuan"
+            },
+            {
+                "agent_1": "Team Not Found",
+                "agent_2": "Team Not Found",
+                "agent_3": "Team Not Found"
+            },
+            {
+                "agent_1": "Team Not Found",
+                "agent_2": "Team Not Found",
+                "agent_3": "Team Not Found"
+            }
+        ],
+        "Analisis_Gemini": "Build seleccionada porque fue la fuente elegida por el usuario: GenshinLab."
+    },
+    "zzz_yi_xuan": {
+        "character_name": "逸轩",
+        "game": "ZZZ",
+        "source": "GenshinLab",
+        "build_name": "Mejor Build General (Analizada por Gemini)",
+        "weapon_recommendations": [
+            "清鸣鸟笼",
+            "谜宫圆球",
+            "电波旅程"
+        ],
+        "artifact_set_recommendations": [
+            "云铠遗事 4件套, 枝刃颂歌 2件套",
+            "云铠遗事 4件套, 啄木鸟电波 2件套"
+        ],
+        "main_stats_recommendations": {
+            "head_drive": "暴击率/暴击伤害",
+            "hand_drive": "以太伤害加成%",
+            "feet_drive": "生命值%",
+            "core_drive": ""
+        },
+        "final_stats_targets": {
+            "HP": "",
+            "DEF": "",
+            "ATK": "",
+            "CRIT Rate": "",
+            "CRIT DMG": "",
+            "Energy_Charge": "",
+            "Impact_Rating": "",
+            "Attribute_DMG": "",
+            "Anomaly_Proficiency": ""
+        },
+        "team_recommendations": [
+            "逸轩, 雅, 盘影虎",
+            "Equipo No Encontrado",
+            "Equipo No Encontrado"
+        ],
+        "Analisis_Gemini": "Build seleccionada porque fue la fuente elegida por el usuario: GenshinLab."
+    },
+    "zzz_fufu": {
+        "character_name": "fufu",
+        "game": "ZZZ",
+        "source": "Prydwen",
+        "build_name": "Best General Build (Analyzed by Gemini)",
+        "weapon_recommendations": [
+            "Roaring Fur-nace",
+            "Blazing Laurel",
+            "Hellfire Gears",
+            "Precious Fossilized Core"
+        ],
+        "artifact_set_recommendations": [
+            "King of the Summit",
+            "Swing Jazz",
+            "Proto Punk",
+            "Shockstar Disco"
+        ],
+        "main_stats_recommendations": {
+            "head_drive": "ATK%",
+            "hand_drive": "ATK%",
+            "feet_drive": "Impact",
+            "core_drive": ""
+        },
+        "final_stats_targets": {
+            "HP": "11,000+",
+            "DEF": "850+",
+            "ATK": "3100-3400",
+            "CRIT Rate": "50%+ (If using 4P King of the Summit)",
+            "CRIT DMG": "",
+            "Energy_Charge": "",
+            "Impact_Rating": "139 - 160+",
+            "Attribute_DMG": "",
+            "Anomaly_Proficiency": ""
+        },
+        "team_recommendations": [
+            "Fufu, Yixuan, Astra Yao",
+            "Fufu, Hugo, Lighter",
+            "Fufu, Trigger, Evelyn"
+        ],
+        "Analisis_Gemini": "Build seleccionada porque fue la fuente elegida por el usuario: Prydwen."
+    },
+    "zzz_miyabi": {
+        "character_name": "miyabi",
+        "game": "ZZZ",
+        "source": "Prydwen",
+        "build_name": "Mejor Build General (Analizada por Gemini)",
+        "weapon_recommendations": [
+            "Santuario de Granizo (S1)",
+            "Compilador de Fusión (S1)",
+            "Brillo Labial Eléctrico (S5)"
+        ],
+        "artifact_set_recommendations": [
+            "Canción de Rama y Hoja (4-PC)",
+            "Carpintero Eléctrico (4-PC)",
+            "Metal Polar (4-PC)"
+        ],
+        "main_stats_recommendations": {
+            "head_drive": "Head Drive",
+            "hand_drive": "Hand Drive",
+            "feet_drive": "Feet Drive",
+            "core_drive": "Tasa CRIT% >= ATQ%"
+        },
+        "final_stats_targets": {
+            "HP": "10000+",
+            "DEF": "800+",
+            "ATK": "2500 - 3600+",
+            "CRIT Rate": "75-95%",
+            "CRIT DMG": "150-190%",
+            "Energy_Charge": "120.15%",
+            "Impact_Rating": "86",
+            "Attribute_DMG": "Daño de Hielo: 17.49%",
+            "Anomaly_Proficiency": "270.12"
+        },
+        "team_recommendations": [
+            "Miyabi, Yanagi, Soukaku",
+            "Miyabi, Lycaon, Soukaku",
+            "Miyabi, Nicole, Astra Yao"
+        ],
+        "Analisis_Gemini": "Seleccionada porque usuario eligió: Prydwen."
+    },
+    "zzz_nicole": {
+        "character_name": "nicole",
+        "game": "ZZZ",
+        "source": "Prydwen",
+        "build_name": "Mejor Build General (Analizada por Gemini)",
+        "weapon_recommendations": [
+            "La Bóveda",
+            "Cuna Lamentable",
+            "Kaboom el Cañón",
+            "Corte del Tiempo",
+            "[Reverb] Mark II",
+            "Balón de Juego Desatado"
+        ],
+        "artifact_set_recommendations": [
+            "Arrullo de Luz Lunar (4-PC) + Melodía de Faetón (2-PC)",
+            "Voz Astral (4-PC) + Melodía de Faetón (2-PC)",
+            "Swing Jazz (4-PC) + Melodía de Faetón (2-PC)"
+        ],
+        "main_stats_recommendations": {
+            "head_drive": "",
+            "hand_drive": "",
+            "feet_drive": "",
+            "core_drive": "Recarga de Energía o ATQ%"
+        },
+        "final_stats_targets": {
+            "HP": "",
+            "DEF": "",
+            "ATK": "",
+            "CRIT Rate": "",
+            "CRIT DMG": "",
+            "Energy_Charge": "",
+            "Impact_Rating": "",
+            "Attribute_DMG": "",
+            "Anomaly_Proficiency": ""
+        },
+        "team_recommendations": [
+            "Nicole, Zhu Yuan, Corin",
+            "Nicole, Harumasa, Nekomata",
+            "Nicole, Billy, Aokaku"
+        ],
+        "Analisis_Gemini": "Seleccionada porque usuario eligió: Prydwen."
+    }
+}

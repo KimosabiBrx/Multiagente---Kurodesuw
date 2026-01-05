@@ -1,0 +1,184 @@
+{
+    "hsr_phainon": {
+        "character_name": "phainon",
+        "game": "HSR",
+        "source": "Prydwen",
+        "build_name": "Mejor Build General (Analizada por Gemini)",
+        "weapon_recommendations": [
+            "Así Quema el Amanecer (Cono de Luz)",
+            "En la Caída de un Eón (Cono de Luz)",
+            "Algo Irremplazable (Cono de Luz)",
+            "Un Rastro de Sangre Pasada (Cono de Luz)"
+        ],
+        "artifact_set_recommendations": [
+            "Capitán Rompeolas (4 piezas)",
+            "Erudito Perdido en Erudición (4 piezas)",
+            "Campeón Callejero de Boxeo (4 piezas)"
+        ],
+        "planetary_set_recommendations": [
+            "Arcadia de Sueños Tejidos (2 piezas)",
+            "Arena Rutilante (2 piezas)"
+        ],
+        "main_stats_recommendations": {
+            "body": "Tasa CRIT",
+            "feet": "ATQ%",
+            "planar_sphere": "Daño Físico",
+            "link_rope": "ATQ%"
+        },
+        "final_stats_targets": {
+            "HP": "3200+",
+            "DEF": "1000+",
+            "ATK": "2200 - 2600+",
+            "CRIT Rate": "90-100%",
+            "CRIT DMG": "160-180%+",
+            "SPD": "136 (sincronizado)",
+            "Energy Regen Rate": "",
+            "Effect RES": "",
+            "Effect HIT Rate": "",
+            "Break Effect": ""
+        },
+        "team_recommendations": [
+            "Phainon, Sunday, Bronya, Cerydra",
+            "Phainon, Sunday, Bronya, Ruan Mei",
+            "Phainon, Sunday, Bronya, Huohuo"
+        ],
+        "Analisis_Gemini": "Build seleccionada porque fue la fuente elegida por el usuario: Prydwen."
+    },
+    "hsr_cerydra": {
+        "character_name": "세리드라",
+        "game": "HSR",
+        "source": "Prydwen",
+        "build_name": "Mejor Build General (Analizada por Gemini)",
+        "weapon_recommendations": [
+            "시대를 새긴 황금 피 (S1)",
+            "야경 속으로 흐르는 불빛 (S1)",
+            "영원한 식량 (S5)"
+        ],
+        "artifact_set_recommendations": [
+            "구도자의 재현된 시련 (4세트)",
+            "황야의 번개 (4세트)",
+            "장수 만세 해커 스페이스 (2세트)"
+        ],
+        "planetary_set_recommendations": [
+            "루샤카: 잠긴 바다 (2세트)",
+            "페나코니: 꿈의 땅 (2세트)",
+            "부서진 용골 (2세트)"
+        ],
+        "main_stats_recommendations": {
+            "body": "공격력%",
+            "feet": "속도 > 공격력%",
+            "planar_sphere": "공격력%",
+            "link_rope": "에너지 회복효율 > 공격력%"
+        },
+        "final_stats_targets": {
+            "HP": "3500 - 4000+",
+            "DEF": "1000 - 1200+",
+            "ATK": "4000+",
+            "CRIT Rate": "",
+            "CRIT DMG": "",
+            "SPD": "140+",
+            "Energy Regen Rate": "",
+            "Effect RES": "",
+            "Effect HIT Rate": "",
+            "Break Effect": ""
+        },
+        "team_recommendations": [
+            "세리드라, 파이논, 스파클, 링스",
+            "세리드라, 아낙사, 브로냐, 게파드",
+            "세리드라, 파이논, 로빈, 링스"
+        ],
+        "Analisis_Gemini": "Build seleccionada porque fue la fuente elegida por el usuario: Prydwen."
+    },
+    "hsr_firefly": {
+        "character_name": "firefly",
+        "game": "HSR",
+        "source": "Prydwen",
+        "build_name": "Mejor Build General (Analizada por Gemini)",
+        "weapon_recommendations": [
+            "Donde Reposan los Sueños",
+            "Así Amanece",
+            "En la Caída de un Aeón",
+            "Promesa Imborrable"
+        ],
+        "artifact_set_recommendations": [
+            "Caballería Férrea Contra la Plaga",
+            "Ladrón del Meteoro Caído"
+        ],
+        "planetary_set_recommendations": [
+            "Forja de la Linterna de Kalpagni",
+            "Talia: Reino de la Bandolería"
+        ],
+        "main_stats_recommendations": {
+            "body": "ATQ%",
+            "feet": "Velocidad",
+            "planar_sphere": "ATQ%",
+            "link_rope": "Efecto de Ruptura%"
+        },
+        "final_stats_targets": {
+            "HP": "2600+",
+            "DEF": "",
+            "ATK": "",
+            "CRIT Rate": "",
+            "CRIT DMG": "",
+            "SPD": "150 (fuera de Combustión) / 210 (en Combustión)",
+            "Energy Regen Rate": "",
+            "Effect RES": "",
+            "Effect HIT Rate": "",
+            "Break Effect": "360%"
+        },
+        "team_recommendations": [
+            "Firefly, Trailblazer de la Armonía, Ruan Mei, Gallagher",
+            "Firefly, Trailblazer de la Armonía, Pela, Gallagher",
+            "Firefly, Trailblazer de la Armonía, Silver Wolf, Gallagher"
+        ],
+        "Analisis_Gemini": "Seleccionada porque usuario eligió: Prydwen."
+    },
+    "hsr_saber": {
+        "character_name": "saber",
+        "game": "HSR",
+        "source": "Prydwen",
+        "build_name": "Mejor Build General (Analizada por Gemini)",
+        "weapon_recommendations": [
+            "不忠の戴冠",
+            "だが、世界は壊滅には抗えない",
+            "この身は剣なり",
+            "秘密の誓い"
+        ],
+        "artifact_set_recommendations": [
+            "波客の艦長",
+            "博識の迷学者",
+            "荒野の鷹",
+            "風翔の勇者"
+        ],
+        "planetary_set_recommendations": [
+            "廻星巡狩のサルトソ",
+            "漠が織りなす新時代",
+            "宇宙ステーションの軌道",
+            "競技場"
+        ],
+        "main_stats_recommendations": {
+            "body": "会心ダメージ",
+            "feet": "速度",
+            "planar_sphere": "風ダメージ",
+            "link_rope": "攻撃力"
+        },
+        "final_stats_targets": {
+            "HP": "3300+",
+            "DEF": "1000+",
+            "ATK": "2600 - 3000+",
+            "CRIT Rate": "100% (戦闘中、天賦とバフ込み)",
+            "CRIT DMG": "150 - 180%+",
+            "SPD": "135 (ブースターより1速い)",
+            "Energy Regen Rate": "",
+            "Effect RES": "",
+            "Effect HIT Rate": "",
+            "Break Effect": ""
+        },
+        "team_recommendations": [
+            "セイバー, サンデー, 花火, フォフォ",
+            "セイバー, ブローニャ, ルアン・メェイ, フォフォ",
+            "セイバー, 停雲, 銀狼, リンクス"
+        ],
+        "Analisis_Gemini": "Seleccionada porque usuario eligió: Prydwen."
+    }
+}
